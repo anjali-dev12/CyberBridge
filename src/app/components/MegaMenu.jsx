@@ -95,6 +95,7 @@ export default function MegaMenu() {
                 const Icon = item.icon;
 
                 return (
+                  
                   <div
                     key={index}
                     className="group p-4 rounded-xl border border-gray-200 hover:border-blue-300 hover:shadow-lg transition-all cursor-pointer bg-white"
